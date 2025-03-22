@@ -7,10 +7,10 @@
       <img alt="Last commit" src="https://img.shields.io/github/last-commit/aditya-an1l/donmain?style=for-the-badge&logo=git&color=ebeb46&logoColor=FFFFFF&labelColor=000000"/>
     </a>
     <a href="https://github.com/aditya-an1l/donmain/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/aditya-an1l/donmain?style=for-the-badge&logo=apache&color=7c675f&logoColor=FFFFFF&labelColor=000000" />
+      <img alt="License Badge" src="https://img.shields.io/github/license/aditya-an1l/donmain?style=for-the-badge&logo=apache&color=7c675f&logoColor=FFFFFF&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/donmain/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/aditya-an1l/donmain?style=for-the-badge&logo=starship&color=ebeb46&logoColor=FFFFFF&labelColor=000000" />
+      <img alt="Stars Badge" src="https://img.shields.io/github/stars/aditya-an1l/donmain?style=for-the-badge&logo=starship&color=ebeb46&logoColor=FFFFFF&labelColor=000000" />
     </a>
     <a href="https://github.com/aditya-an1l/donmain/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/aditya-an1l/donmain?style=for-the-badge&logo=gitbook&color=7c675f&logoColor=FFFFFF&labelColor=000000" />
