@@ -42,6 +42,7 @@ This tool reads a list of potential subdomains from a file and checks if they re
 - Perl installed on your system.
 - The `Net::DNS` Perl module installed.
 
+
 ## 🛠️ Installation
 
 ### 1. Install Perl
@@ -50,21 +51,42 @@ Ensure Perl is installed on your system. You can check by running:
 perl -v
 ```
 
-If Perl is not installed, you can install it using your package manager:
+If Perl is not installed, follow the instructions below for your operating system.
 
-- **Debian/Ubuntu**:
-  ```bash
-  sudo apt-get install perl
-  ```
+#### **Linux (Debian/Ubuntu)**:
+```bash
+sudo apt-get install perl
+```
 
-- **Red Hat/CentOS**:
-  ```bash
-  sudo yum install perl
-  ```
+#### **Linux (Red Hat/CentOS)**:
+```bash
+sudo yum install perl
+```
+
+#### **Mac**:
+Perl is pre-installed on macOS. You can verify it by running:
+```bash
+perl -v
+```
+
+If you need to update Perl, you can use `brew`:
+```bash
+brew install perl
+```
+
+#### **Windows**:
+1. Download and install **Strawberry Perl** from [strawberryperl.com](https://strawberryperl.com/).
+2. Follow the installation wizard.
+3. After installation, open Command Prompt and verify Perl is installed:
+   ```cmd
+   perl -v
+   ```
+
 
 ### 2. Install the `Net::DNS` Module
 Install the `Net::DNS` Perl module using one of the following methods:
 
+#### **Linux/Mac**:
 - **Using CPAN**:
   ```bash
   cpan Net::DNS
@@ -85,8 +107,18 @@ Install the `Net::DNS` Perl module using one of the following methods:
     sudo yum install perl-Net-DNS
     ```
 
+#### **Windows**:
+1. Open Command Prompt.
+2. Use `cpan` to install the module:
+   ```cmd
+   cpan Net::DNS
+   ```
+
+
 ### 3. Download the Script
-Clone this repository or download the `subdomain_enum.pl` script.
+1. Clone this repository or download the `subdomain_enum.pl` script.
+2. Save the script to your desired directory.
+
 
 ## 🚀 Usage
 
