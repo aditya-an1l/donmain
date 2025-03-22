@@ -161,6 +161,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 This project is licensed under the Apache License 2.0 . See the [LICENSE](LICENSE) file for details.
 
----
-
-The emojis add a bit of visual flair to the headers while keeping the content professional and easy to read. Let me know if you’d like further tweaks! 😊
